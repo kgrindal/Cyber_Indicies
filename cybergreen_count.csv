@@ -1,0 +1,247 @@
+"","countrycode","CountryName","count_amplified"
+"1","AD","Andorra",10894.6069327731
+"2","AE","United Arab Emirates",66169.4051906158
+"3","AF","Afghanistan",7440.60620720453
+"4","AG","Antigua and Barbuda",6385.83592039801
+"5","AI","Anguilla",3326.21006711409
+"6","AL","Albania",16649.0762954796
+"7","AM","Armenia",11127.1771625381
+"8","AO","Angola",15760.1730227519
+"9","AQ","Antarctica",714.838953488372
+"10","AR","Argentina",14591.8494335347
+"11","AS","American Samoa",10514.1201058201
+"12","AT","Austria",16939.4974618701
+"13","AU","Australia",20322.0196340343
+"14","AW","Aruba",5324.49534282018
+"15","AX","Åland Islands",1937.66739130435
+"16","AZ","Azerbaijan",18463.1837469532
+"17","BA","Bosnia and Herzegovina",20981.0798110661
+"18","BB","Barbados",22229.920311486
+"19","BD","Bangladesh",5424.8996443851
+"20","BE","Belgium",22565.9345299009
+"21","BF","Burkina Faso",2017.67712958183
+"22","BG","Bulgaria",12546.6712232791
+"23","BH","Bahrain",34115.4088998764
+"24","BI","Burundi",8601.67170245399
+"25","BJ","Benin",7142.26560814859
+"26","BL","Saint Barthélemy",1390.85042253521
+"27","BM","Bermuda",18917.0289292731
+"28","BN","Brunei Darussalam",8973.76003700277
+"29","BO","Bolivia, Plurinational State of",23757.4401143099
+"30","BQ","Bonaire, Sint Eustatius and Saba",4610.48028776978
+"31","BR","Brazil",9889.01507812166
+"32","BS","Bahamas",23759.9519197208
+"33","BT","Bhutan",4102.36607019959
+"34","BV","Bouvet Island",123
+"35","BW","Botswana",14163.3273498473
+"36","BY","Belarus",38905.897109273
+"37","BZ","Belize",15156.9281128113
+"38","CA","Canada",30164.2118896273
+"39","CC","Cocos (Keeling) Islands",1057.66666666667
+"40","CD","Congo, the Democratic Republic of the",1758.85111862643
+"41","CF","Central African Republic",4596.48391167192
+"42","CG","Congo",6458.48522255193
+"43","CH","Switzerland",20023.5652208348
+"44","CI","Côte d'Ivoire",4080.36808988764
+"45","CK","Cook Islands",1997.50127795527
+"46","CL","Chile",30970.7349198932
+"47","CM","Cameroon",29965.6216321968
+"48","CN","China",548759.002871561
+"49","CO","Colombia",96673.7153422467
+"50","CR","Costa Rica",21319.1353289813
+"51","CU","Cuba",25164.2902266289
+"52","CV","Cape Verde",18457.0586005831
+"53","CW","Curaçao",7767.69845201238
+"54","CX","Christmas Island",1113.8
+"55","CY","Cyprus",9432.9104274686
+"56","CZ","Czech Republic",20271.6899362217
+"57","DE","Germany",42397.4913152544
+"58","DJ","Djibouti",12803.4048387097
+"59","DK","Denmark",28948.6813855638
+"60","DM","Dominica",2410.4597826087
+"61","DO","Dominican Republic",20208.3085538238
+"62","DZ","Algeria",350521.140432295
+"63","EC","Ecuador",18140.3165623661
+"64","EE","Estonia",18385.1337321792
+"65","EG","Egypt",56462.70172949
+"66","EH","Western Sahara",82
+"67","ER","Eritrea",1547.9831372549
+"68","ES","Spain",28535.7297683985
+"69","ET","Ethiopia",51557.8985074627
+"70","FI","Finland",15491.9155474398
+"71","FJ","Fiji",30820.850911641
+"72","FK","Falkland Islands (Malvinas)",4711.94566037736
+"73","FM","Micronesia, Federated States of",2262.50959079284
+"74","FO","Faroe Islands",43755.0848623853
+"75","FR","France",73743.2980679185
+"76","GA","Gabon",3350.77397989355
+"77","GB","United Kingdom",30798.6285335626
+"78","GD","Grenada",8227.4987804878
+"79","GE","Georgia",36294.910990502
+"80","GF","French Guiana",7159.46516949153
+"81","GG","Guernsey",8493.03513203215
+"82","GH","Ghana",7833.61408939897
+"83","GI","Gibraltar",10582.5755014327
+"84","GL","Greenland",71020.5032051282
+"85","GM","Gambia",12549.7958967571
+"86","GN","Guinea",3744.24550898204
+"87","GP","Guadeloupe",15024.4588077336
+"88","GQ","Equatorial Guinea",8993.8528425656
+"89","GR","Greece",28850.3956504138
+"90","GT","Guatemala",17386.6291972866
+"91","GU","Guam",18191.966151582
+"92","GW","Guinea-Bissau",18708.3904109589
+"93","GY","Guyana",5156.0027027027
+"94","HK","Hong Kong",29657.5891470713
+"95","HN","Honduras",16973.6472948065
+"96","HR","Croatia",21647.8305359121
+"97","HT","Haiti",54406.630738523
+"98","HU","Hungary",29533.1067217889
+"99","ID","Indonesia",7769.73551933893
+"100","IE","Ireland",23168.2944076969
+"101","IL","Israel",25071.7694989107
+"102","IM","Isle of Man",9904.63311802701
+"103","IN","India",25474.71794461
+"104","IO","British Indian Ocean Territory",5963.48125
+"105","IQ","Iraq",7070.00845252641
+"106","IR","Iran, Islamic Republic of",28253.7604876471
+"107","IS","Iceland",21051.9537952271
+"108","IT","Italy",104733.628369259
+"109","JE","Jersey",18619.1939974457
+"110","JM","Jamaica",46390.4788842544
+"111","JO","Jordan",12013.351811289
+"112","JP","Japan",41279.8327441392
+"113","KE","Kenya",36724.7889270386
+"114","KG","Kyrgyzstan",8093.05478197142
+"115","KH","Cambodia",21979.1700878451
+"116","KI","Kiribati",7372.6761682243
+"117","KM","Comoros",3443.23492957746
+"118","KN","Saint Kitts and Nevis",2882.02773109244
+"119","KP","Korea, Democratic People's Republic of",267.514035087719
+"120","KR","Korea, Republic of",108056.978999784
+"121","KW","Kuwait",23341.1270764667
+"122","KY","Cayman Islands",12323.2728352301
+"123","KZ","Kazakhstan",54828.389027712
+"124","LA","Lao People's Democratic Republic",11036.4317188638
+"125","LB","Lebanon",11686.2749280515
+"126","LC","Saint Lucia",5109.85257548845
+"127","LI","Liechtenstein",3270.87972477064
+"128","LK","Sri Lanka",34112.9591897974
+"129","LR","Liberia",7081.42117177097
+"130","LS","Lesotho",4571.75818181818
+"131","LT","Lithuania",18053.3086649516
+"132","LU","Luxembourg",9179.24329873126
+"133","LV","Latvia",7316.73298924936
+"134","LY","Libya",15811.6350701403
+"135","MA","Morocco",82124.1245666667
+"136","MC","Monaco",13932.1618860511
+"137","MD","Moldova, Republic of",42441.8367869616
+"138","ME","Montenegro",14420.8845015576
+"139","MF","Saint Martin (French part)",8086.32423469388
+"140","MG","Madagascar",17941.5374520338
+"141","MH","Marshall Islands",51041.1890052356
+"142","MK","Macedonia, the Former Yugoslav Republic of",22717.348365357
+"143","ML","Mali",9167.10249739854
+"144","MM","Myanmar",8255.5820250133
+"145","MN","Mongolia",20731.1866699378
+"146","MO","Macao",30393.4860655738
+"147","MP","Northern Mariana Islands",7140.99378238342
+"148","MQ","Martinique",13268.3590206186
+"149","MR","Mauritania",11248.6470588235
+"150","MS","Montserrat",3257.45694444444
+"151","MT","Malta",15446.6473136428
+"152","MU","Mauritius",21252.5489045172
+"153","MV","Maldives",9219.24884318766
+"154","MW","Malawi",4098.13038053649
+"155","MX","Mexico",97655.9141473174
+"156","MY","Malaysia",25464.0072331434
+"157","MZ","Mozambique",22114.5167985703
+"158","NC","New Caledonia",6549.68706709957
+"159","NE","Niger",4514.98701754386
+"160","NF","Norfolk Island",705.075886524823
+"161","NG","Nigeria",11110.2430928992
+"162","NI","Nicaragua",39726.5101576182
+"163","NL","Netherlands",26543.3117606545
+"164","NO","Norway",26084.8307250865
+"165","NP","Nepal",8602.33121640891
+"166","NR","Nauru",2152.78848484848
+"167","NU","Niue",159.001176470588
+"168","NZ","New Zealand",7110.75820564457
+"169","OM","Oman",97790.8780876494
+"170","PA","Panama",13072.9359141317
+"171","PE","Peru",48332.4388761329
+"172","PF","French Polynesia",9202.98641509434
+"173","PG","Papua New Guinea",11967.9251370113
+"174","PH","Philippines",26906.8339986129
+"175","PK","Pakistan",30086.2070155117
+"176","PL","Poland",8702.34957895537
+"177","PM","Saint Pierre and Miquelon",2359.10138888889
+"178","PR","Puerto Rico",17435.403208612
+"179","PS","Palestine, State of",53241.5745765346
+"180","PT","Portugal",94837.3285106013
+"181","PW","Palau",1334.77272727273
+"182","PY","Paraguay",121727.001699926
+"183","QA","Qatar",99788.198790932
+"184","RE","Réunion",23621.7756410256
+"185","RO","Romania",28983.2554372242
+"186","RS","Serbia",22988.4482117089
+"187","RU","Russian Federation",21945.4008256848
+"188","RW","Rwanda",23498.4053757542
+"189","SA","Saudi Arabia",33026.8639918163
+"190","SB","Solomon Islands",3211.98879907621
+"191","SC","Seychelles",6887.24715424801
+"192","SD","Sudan",22798.0701247166
+"193","SE","Sweden",25429.0306213692
+"194","SG","Singapore",43940.2921824259
+"195","SH","Saint Helena, Ascension and Tristan da Cunha",1560.04375
+"196","SI","Slovenia",26701.6438296057
+"197","SJ","Svalbard and Jan Mayen",1630.91954022989
+"198","SK","Slovakia",27572.7658684135
+"199","SL","Sierra Leone",4955.14708806818
+"200","SM","San Marino",3596.93591481123
+"201","SN","Senegal",21260.3099923722
+"202","SO","Somalia",2243.04902912621
+"203","SR","Suriname",13061.6874062969
+"204","SS","South Sudan",1588.70381558029
+"205","ST","Sao Tome and Principe",5024.27494305239
+"206","SV","El Salvador",23897.4671150972
+"207","SX","Sint Maarten (Dutch part)",10038.5908653846
+"208","SY","Syrian Arab Republic",52442.8175438597
+"209","SZ","Swaziland",3287.97793240557
+"210","TC","Turks and Caicos Islands",3234.41544256121
+"211","TD","Chad",4567.54114391144
+"212","TG","Togo",4304.89024621212
+"213","TH","Thailand",56761.8706741246
+"214","TJ","Tajikistan",5758.49268929504
+"215","TK","Tokelau",519.301117318436
+"216","TL","Timor-Leste",18288.9967342342
+"217","TM","Turkmenistan",7941.25527950311
+"218","TN","Tunisia",30606.0387185104
+"219","TO","Tonga",3011.83723723724
+"220","TR","Turkey",40232.5337036069
+"221","TT","Trinidad and Tobago",44237.0112585444
+"222","TV","Tuvalu",3942.11126760563
+"223","TW","Taiwan, Province of China",75696.1125583896
+"224","TZ","Tanzania, United Republic of",6714.23231563422
+"225","UA","Ukraine",7078.33560504672
+"226","UG","Uganda",12711.4827721402
+"227","UM","United States Minor Outlying Islands",92.3588235294118
+"228","US","United States",38828.1300515938
+"229","UY","Uruguay",74441.478125
+"230","UZ","Uzbekistan",8658.32926690229
+"231","VA","Holy See (Vatican City State)",6246.97793103448
+"232","VC","Saint Vincent and the Grenadines",9239.05662251656
+"233","VE","Venezuela, Bolivarian Republic of",24659.1906535948
+"234","VG","Virgin Islands, British",8298.05818181818
+"235","VI","Virgin Islands, U.S.",11297.0191168551
+"236","VN","Viet Nam",50988.2062199053
+"237","VU","Vanuatu",3327.07380952381
+"238","WF","Wallis and Futuna",2301.17247191011
+"239","WS","Samoa",8770.80788834951
+"240","XK","Kosovo",2275.28844660194
+"241","XY","Western Europe",24011.0352326356
+"242","YE","Yemen",42205.3204152249
+"243","YT","Mayotte",3396.06464497041
+"244","ZA","South Africa",16256.5733336381
+"245","ZM","Zambia",15932.2485953177
+"246","ZW","Zimbabwe",29649.3323645598
