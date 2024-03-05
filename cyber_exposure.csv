@@ -1,0 +1,109 @@
+﻿Country,Region,MemberScore,RegionalRank,GlobalRank
+Afghanistan,Asia-Pacific,0.177,25,126
+Albania,Europe,0.631,36,62
+Algeria,Arab States,0.262,14,108
+Argentina,Americas,0.407,11,94
+Armenia,CIS,0.495,6,79
+Australia,Asia-Pacific,0.890,3,10
+Austria,Europe,0.826,16,28
+Azerbaijan,CIS,0.653,4,55
+Bangladesh,Asia-Pacific,0.525,15,78
+Belarus,CIS,0.578,5,69
+Belgium,Europe,0.814,18,30
+Bolivia,Americas,0.139,24,135
+Bosnia and Herzegovina,Europe,0.204,43,118
+Brazil,Americas,0.577,6,70
+Bulgaria,Europe,0.721,29,46
+Cambodia,Asia-Pacific,0.161,27,131
+Cameroon,Africa,0.432,13,91
+Canada,Americas,0.892,2,9
+Chile,Americas,0.470,9,83
+China,Asia-Pacific,0.828,6,27
+Colombia,Americas,0.565,7,73
+Costa Rica,Americas,0.221,18,115
+Croatia,Europe,0.840,14,24
+Cyprus,Europe,0.652,33,56
+Czech Republic,Europe,0.569,37,71
+Denmark,Europe,0.852,12,21
+Dominican Republic,Americas,0.430,10,92
+Ecuador,Americas,0.367,14,98
+Egypt,Arab States,0.842,4,23
+El Salvador,Americas,0.124,27,142
+Estonia,Europe,0.905,4,5
+Ethiopia,Africa,0.278,18,105
+Finland,Europe,0.856,10,19
+France,Europe,0.918,2,3
+Georgia,Europe,0.857,9,18
+Germany,Europe,0.849,13,22
+Greece,Europe,0.527,40,77
+Honduras,Americas,0.44,32,165
+Hungary,Europe,0.812,19,31
+Iceland,Europe,0.449,42,87
+India,Asia-Pacific,0.719,10,47
+Indonesia,Asia-Pacific,0.776,9,41
+Iraq,Arab States,0.263,13,107
+Ireland,Europe,0.784,23,38
+Israel,Europe,0.783,24,39
+Italy,Europe,0.837,15,25
+Japan,Asia-Pacific,0.880,4,14
+Jordan,Arab States,0.556,8,74
+Kazakhstan,CIS,0.778,2,40
+Kenya,Africa,0.748,2,44
+Kuwait,Arab States,0.600,6,67
+Kyrgyzstan,CIS,0.254,8,111
+Latvia,Europe,0.748,27,44
+Lebanon,Arab States,0.186,17,124
+Libya,Arab States,0.206,16,117
+Lithuania,Europe,0.908,3,4
+Luxembourg,Europe,0.886,7,11
+Malaysia,Asia-Pacific,0.893,2,8
+Mauritius,Africa,0.880,1,14
+Mexico,Americas,0.629,4,63
+Moldova,Europe,0.662,31,53
+Mongolia,Asia-Pacific,0.465,17,85
+Morocco,Arab States,0.429,10,93
+Myanmar,Asia-Pacific,0.172,26,128
+Namibia,Africa,0.127,29,141
+Nepal,Asia-Pacific,0.260,20,109
+Netherlands,Europe,0.885,8,12
+New Zealand,Asia-Pacific,0.789,8,36
+Nicaragua,Americas,0.129,26,140
+Nigeria,Africa,0.650,5,57
+The Republic of North Macedonia,Europe,0.800,21,34
+Norway,Europe,0.892,6,9
+Pakistan,Asia-Pacific,0.407,18,94
+State of Palestine,Arab States,0.307,11,101
+Panama,Americas,0.369,13,97
+Paraguay,Americas,0.603,5,66
+Peru,Americas,0.401,12,95
+Philippines,Asia-Pacific,0.643,12,58
+Poland,Europe,0.815,17,29
+Portugal,Europe,0.758,25,42
+Qatar,Arab States,0.860,3,17
+Romania,Europe,0.568,38,72
+Russia,CIS,0.836,1,26
+Saudi Arabia,Arab States,0.881,1,13
+Serbia,Europe,0.643,34,58
+Singapore,Asia-Pacific,0.898,1,6
+Slovakia,Europe,0.729,28,45
+Slovenia,Europe,0.701,30,48
+South Africa,Africa,0.652,4,56
+Republic of Korea,Asia-Pacific,0.873,5,15
+Spain,Europe,0.896,5,7
+Sri Lanka,Asia-Pacific,0.466,16,84
+Sweden,Europe,0.810,20,32
+Switzerland,Europe,0.788,22,37
+Tanzania,Africa,0.642,6,59
+Thailand,Asia-Pacific,0.796,7,35
+Tunisia,Arab States,0.536,9,76
+Turkey,Europe,0.853,11,20
+Uganda,Africa,0.621,7,65
+Ukraine,Europe,0.661,32,54
+United Arab Emirates,Arab States,0.807,5,33
+United Kingdom,Europe,0.931,1,1
+United States,Americas,0.926,1,2
+Uruguay,Americas,0.681,3,51
+Uzbekistan,CIS,0.666,3,52
+Venezuela,Americas,0.354,15,99
+Zambia,Africa,0.436,12,90
+Zimbabwe,Africa,0.186,24,124
